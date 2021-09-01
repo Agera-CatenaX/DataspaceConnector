@@ -12,6 +12,7 @@ provider-dataspace-connector | 2021-09-01T09:52:05,765 [main] INFO - Started Con
 ```
 
 ```bash
+pipenv sync
 pipenv shell
 scripts/tests/contract_negotation_allow_access.py
 ```
